@@ -39,4 +39,28 @@ Gatoronron es un bot de varias funciones, las cuales explicaré en este archivo.
 >(Podrás enviar noticias a cualquier canal, ejemplo de como usar este comando:) g=noticia (Canal) (Texto)
 
 
+```g=ms``` 
+>(Podrás ver el ms del bot)
+
+
+```g=report``` 
+>(Reporta cualquier bug que encuentres en el bot, tu reporte será enviado al developer)
+
+
+```g=roleinfo``` 
+>(Información de algún rol, puedes agregarlo mencionando el rol o con el ID del rol)
+
+
+```g=say```
+>(Harás que el bot diga lo que escribiste con el comando)
+
+
+```g=serverinfo```
+>(Información del servidor)
+
+
+```g=slowmode```
+>(Establece el slowmode de algún canal, **EL MÁXIMO ES 6000**)
+
+
 
