@@ -35,4 +35,8 @@ Gatoronron es un bot de varias funciones, las cuales explicaré en este archivo.
 >(Habilitará el permiso de ```enviar mensajes``` para el rol @everyone)
 
 
+```g=noticia``` 
+>(Podrás enviar noticias a cualquier canal, ejemplo de como usar este comando:) g=noticia (Canal) (Texto)
+
+
 
