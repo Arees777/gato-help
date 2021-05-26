@@ -136,6 +136,56 @@ Gatoronron es un bot de varias funciones, las cuales explicaré en este archivo.
 
 ```g=wasted```
 >(WASTED)
+-
+-
+-
+-
+-
+-
+-
+✔ Gatoronron sección de niveles ✔
+
+```g=rank```
+>(Dará tu nivel de usuario)
+>-
+-
+-
+-
+-
+-
+-
+✔ Gatoronron sección de NSFW ✔
+
+
+```g=hentai```
+>(Pues.. Ya se imaginan, **esto solo se puede usar en canales marcados como NSFW**)
+
+
+```g=nk```
+>(Nekos... **igual solo se puede en canales marcados como NSFW**
+
+
+
+
+```FEATURES | EN PROCESO```
+
+
+```😸 - SISTEMA DE ECONOMÍA```
+
+```😎 - SISTEMA DE MÚSICA```
+
+```🦁 - Y MUCHO MÁS```
+
+
+AGRADECIMIENTOS:
+
+-```ARes#9796```
+
+
+Links útiles:
+
+[Servidor de soporte](https://discord.gg/Y8KrtS3VEA)
+
 
 
 
