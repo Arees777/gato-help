@@ -3,6 +3,16 @@
 
 Gatoronron es un bot de varias funciones, las cuales explicaré en este archivo.
 
+Links útiles:
+
+[¡Visita mi página!](https://gatoronron-bot.000webhostapp.com/)
+[Servidor de soporte](https://discord.gg/Y8KrtS3VEA)
+[Youtube de ARes](https://www.youtube.com/channel/UCzpCsQga3BTzBrrEbY_Xk_g)
+[Servidor de Gatoronron](https://discord.gg/Hv4FZbF)
+[Youtube de Gatoronron](https://www.youtube.com/user/GaticoVatoLoco)
+[VIP](https://github.com/Arees777/gato-vip)
+
+
 
 
 
@@ -163,10 +173,13 @@ Gatoronron es un bot de varias funciones, las cuales explicaré en este archivo.
 
 ```g=nk```
 >(Nekos... **igual solo se puede en canales marcados como NSFW**
-
-
-
-
+>-
+>-
+>-
+>-
+>-
+>-
+>-
 ```FEATURES | EN PROCESO```
 
 
@@ -182,9 +195,6 @@ AGRADECIMIENTOS:
 -```ARes#9796```
 
 
-Links útiles:
-
-[Servidor de soporte](https://discord.gg/Y8KrtS3VEA)
 
 
 
