@@ -73,11 +73,71 @@ Gatoronron es un bot de varias funciones, las cuales explicaré en este archivo.
 
 ```g=userinfo```
 >(Información del usuario)
+>
+-
+-
+-
+-
+-
+-
+-
+✔ Gatoronron sección de configuración ✔
+
+
+```g=setsg```
+>(Establece el canal en donde irán las sugerencias)
+
+
+```g=setticket```
+>(Establece la **CATEGORÍA** en donde irán los tickets. **PARA QUE LOS TICKETS FUNCIONEN DEBERÁS CREAR UN ROL LLAMADO ```Ticket Support```, ESTE ROL ES OBLIGATORIO SI QUIERES LOS TICKETS)
+
+
+```PARA LOS TICKETS... SI QUIERES CERRAR UN TICKET DEBERÁS TENER EL ROL **Ticket Support** y luego escribir g=close```
+-
+-
+-
+-
+-
+-
+-
+✔ Gatoronron sección de diversión ✔
+
+```g=anime```
+>(Dará información sobre cualquier anime, ejemplo **g=anime boruto**)
+
+
+```g=avatar```
+>(Dará el avatar de cualquier usuario en img)
+
+
+```g=chiste```
+>(Mandará un chiste aleatorio)
+
+
+```g=emoji```
+>(Mandará la img de cualquier emoji, **SOLO SE PUEDEN EMOJIS DE DONDE ESTÉ EL BOT**)
+
+
+```g=meme```
+>(Generará un meme random)
+
+
+```g=sadcat```
+>(Mandará gatitos tristes :c)
+
+
+```g=svi```
+>(Mandará el ícono del server en img)
+
+
+```g=stonks```
+>(STONKS)
+
+
+```g=wasted```
+>(WASTED)
 
 
 
 
-
-
-✔ Gatoronron sección de ayuda ✔
 
