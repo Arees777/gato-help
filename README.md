@@ -63,4 +63,21 @@ Gatoronron es un bot de varias funciones, las cuales explicaré en este archivo.
 >(Establece el slowmode de algún canal, **EL MÁXIMO ES 6000**)
 
 
+```g=suggest```
+>(Servirá para mandar alguna sugerencia, **SOLO SIRVE SI YA ESTABLECISTE EL CANAL DE SUGERENCIAS**)
+
+
+```g=ticket``` 
+>(Abre un ticket con este comando + la razón, **para que esto funcione debes tener un canal de tickets establecido**)
+
+
+```g=userinfo```
+>(Información del usuario)
+
+
+
+
+
+
+✔ Gatoronron sección de ayuda ✔
 
