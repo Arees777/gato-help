@@ -30,3 +30,9 @@ Gatoronron es un bot de varias funciones, las cuales explicaré en este archivo.
 ```g=lock``` 
 >(Bloqueará el permiso ```enviar mensajes``` para el rol @everyone) 
 
+
+```g=unlock``` 
+>(Habilitará el permiso de ```enviar mensajes``` para el rol @everyone)
+
+
+
