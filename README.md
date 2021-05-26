@@ -10,7 +10,7 @@ Links útiles:
 [Youtube de ARes](https://www.youtube.com/channel/UCzpCsQga3BTzBrrEbY_Xk_g)-
 [Servidor de Gatoronron](https://discord.gg/Hv4FZbF)-
 [Youtube de Gatoronron](https://www.youtube.com/user/GaticoVatoLoco)-
-[VIP](https://github.com/Arees777/gato-vip)
+[VIP BOT](https://github.com/Arees777/gato-vip)
 
 
 
